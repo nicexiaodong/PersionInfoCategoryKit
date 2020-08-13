@@ -1,0 +1,6 @@
+framework module PersionInfoCategoryKit {
+  umbrella header "PersionInfoCategoryKit-umbrella.h"
+
+  export *
+  module * { export * }
+}
